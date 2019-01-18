@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="postgre" uuid="9ae5a15f-3f10-4e00-80e0-1d6b984ad15c">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/springbootdb</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="postgres2" uuid="448c9184-29b3-463b-95fc-63814030afd4">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/springbootdb2</jdbc-url>
+    </data-source>
+  </component>
+</project>
